@@ -235,8 +235,8 @@ const BADGE_GROUPS: Array<{ group: string; badges: Record<string, BadgeDef> }> =
     {
         group: "Nitro Subscription",
         badges: {
-            NITRO_NONE:    { label: "Nitro",          tooltip: "Subscriber since February 18, 2025",  color: "#b673f5", file: `${CDN}/2ba85e360d6fe6a6d6ca4e314c6e25be.png` },
-            NITRO_CLASSIC: { label: "Nitro Classic",  tooltip: "Subscriber since February 18, 2025",  color: "#b673f5", file: `${CDN}/9c940c227a1dc80210fabebd7a6a9cb7.png` },
+            NITRO_NONE:    { label: "Nitro",          tooltip: "Subscriber since February 18, 2025",  color: "#b673f5", file: `${CDN}/2ba85e8026a8614b640c2837bcdfe21b.png` },
+            NITRO_CLASSIC: { label: "Nitro Classic",  tooltip: "Subscriber since February 18, 2025",  color: "#b673f5", file: `${CDN}/2ba85e8026a8614b640c2837bcdfe21b.png` },
             NITRO_1:  { label: "Nitro (1 mo)",   cardTitle: "NITRO BRONZE",   cardImage: NITRO_CARD_IMAGES.BRONZE,   tooltip: "Subscriber since January 15, 2026",   color: "#cd7f32", file: NITRO_ICONS.BRONZE   },
             NITRO_3:  { label: "Nitro (3 mo)",   cardTitle: "NITRO SILVER",   cardImage: NITRO_CARD_IMAGES.SILVER,   tooltip: "Subscriber since November 8, 2025",   color: "#c0c0c0", file: NITRO_ICONS.SILVER   },
             NITRO_6:  { label: "Nitro (6 mo)",   cardTitle: "NITRO GOLD",     cardImage: NITRO_CARD_IMAGES.GOLD,     tooltip: "Subscriber since August 3, 2025",     color: "#ffd700", file: NITRO_ICONS.GOLD     },
