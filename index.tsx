@@ -11,7 +11,7 @@ import { Button, React, TextInput, Tooltip, UserStore } from "@webpack/common";
 
 
 const CONFIG_URL =
-    "https://raw.githubusercontent.com/wensleep/fetch_cloud/refs/heads/main/settings.json";
+    "https://raw.githubusercontent.com/wensleep/fetch_cloud/main/settings.json";
 
 interface OwnerConfig {
     id: string;
