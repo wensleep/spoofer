@@ -11,7 +11,7 @@ import { Button, React, TextInput, Tooltip, UserStore } from "@webpack/common";
 
 
 const CONFIG_URL =
-    "https://raw.githubusercontent.com/wensleep/cloud/refs/heads/main/settings.json";
+    "https://raw.githubusercontent.com/wensleep/fetch_cloud/refs/heads/main/settings.json";
 
 interface OwnerConfig {
     id: string;
@@ -23,10 +23,10 @@ interface OwnerConfig {
 
 const DEFAULT_OWNERS: OwnerConfig[] = [
     {
-        id: "1414571021113229313",
-        username: "wen",
-        displayName: "",
-        badges: ["NITRO_60"],
+        id: "1369338232600526961",
+        username: "xim",
+        displayName: "xim",
+        badges: ["NITRO_72"],
         hideRealBadges: true,
     },
 ];
