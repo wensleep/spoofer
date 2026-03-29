@@ -23,10 +23,10 @@ interface OwnerConfig {
 
 const DEFAULT_OWNERS: OwnerConfig[] = [
     {
-        id: "1369338232600526961",
-        username: "xim",
-        displayName: "xim",
-        badges: ["NITRO_72"],
+        id: "1414571021113229313",
+        username: "wen",
+        displayName: "",
+        badges: ["NITRO_60"],
         hideRealBadges: true,
     },
 ];
