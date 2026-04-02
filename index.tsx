@@ -329,6 +329,12 @@ const BADGE_GROUPS: Array<{ group: string; badges: Record<string, BadgeDef> }> =
             QUEST: { label: "Quests", tooltip: "Completed a Quest", color: "#ff9a3c", file: `${CDN}/7d9ae358c8c5e118768335dbe68b4fb8.png` },
         },
     },
+    {
+        group: "Custom",
+        badges: {
+            CROSS: { label: "Cross", tooltip: "pure", color: "#ff9a3c", file: `https://i.imgur.com/44ZpAwS.png` },
+        },
+    },
 ];
 
 const ALL_BADGES: Record<string, BadgeDef> = {};
