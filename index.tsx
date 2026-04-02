@@ -260,6 +260,12 @@ const BADGE_GROUPS: Array<{ group: string; badges: Record<string, BadgeDef> }> =
         },
     },
     {
+        group: "Last Meadow",
+        badges: {
+            LEAF: { label: "Leaf", tooltip: "Leaf", color: "#4f87c4", file: `${CDN}/ca105ad9cfc8580c765101d17bbb2323.png` },
+        },
+    },
+    {
         group: "HypeSquad Events",
         badges: {
             HS_EVENTS: { label: "HypeSquad Events", tooltip: "HypeSquad Events Coordinator", color: "#a45bbd", file: `${CDN}/bf01d1073931f921909045f3a39fd264.png` },
