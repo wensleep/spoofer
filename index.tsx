@@ -333,6 +333,7 @@ const BADGE_GROUPS: Array<{ group: string; badges: Record<string, BadgeDef> }> =
         group: "Custom",
         badges: {
             CROSS: { label: "Cross", tooltip: "pure", color: "#ff9a3c", file: `https://i.imgur.com/44ZpAwS.png` },
+            CROSS2: { label: "Cross", tooltip: "pure", color: "#ff9a3c", file: `https://i.imgur.com/zLg3QTs.png` },
         },
     },
 ];
